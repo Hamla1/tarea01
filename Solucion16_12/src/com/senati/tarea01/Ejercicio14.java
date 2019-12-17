@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
 public class Ejercicio14 {
-
+	//AUTOR : HUGO MAMANCHURA LIMA
 	public static void main(String[] args) {
 		DecimalFormat df = new DecimalFormat("#.00");
 				

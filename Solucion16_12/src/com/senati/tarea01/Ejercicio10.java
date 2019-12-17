@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 import javax.swing.*;
 public class Ejercicio10 {
-
+//AUTOR : HUGO MAMANCHURA LIMA
 	public static void main(String[] args) {
 		float total;
 		float descuento;

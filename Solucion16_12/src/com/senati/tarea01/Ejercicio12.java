@@ -3,7 +3,7 @@ package com.senati.tarea01;
 import javax.swing.JOptionPane;
 
 public class Ejercicio12 {
-
+	//AUTOR : HUGO MAMANCHURA LIMA
 	public static void main(String[] args) {
 		float num = Float.parseFloat(JOptionPane.showInputDialog("Ingrese número: "));
 		
