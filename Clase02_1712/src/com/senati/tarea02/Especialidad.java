@@ -26,6 +26,12 @@ public class Especialidad {
 	public String toString() {
 		return "Especialidad [idEspecialidad=   " + idEspecialidad + ", Nombre= " + Nombre + "]";
 	}
+	public void a() {
+		
+	}
+	public void a(int a) {
+		
+	}
 	
 	
 }
